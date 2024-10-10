@@ -1,0 +1,15 @@
+c:\Coding\Validador-De-CPF\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+c:\Coding\Validador-De-CPF\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+c:\Coding\Validador-De-CPF\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+c:\Coding\Validador-De-CPF\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+c:\Coding\Validador-De-CPF\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+c:\Coding\Validador-De-CPF\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Coding\Validador-De-CPF\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+c:\Coding\Validador-De-CPF\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+c:\Coding\Validador-De-CPF\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+c:\Coding\Validador-De-CPF\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+c:\Coding\Validador-De-CPF\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+c:\Coding\Validador-De-CPF\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+c:\Coding\Validador-De-CPF\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+c:\Coding\Validador-De-CPF\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+c:\Coding\Validador-De-CPF\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll

@@ -4,7 +4,7 @@
     {
         public static bool Validar(string cpf)
         {
-            cpf = cpf.Trim().Replace(".", "").Replace("-", "").Replace(" ", ""); // Remover pontos, espaços e vírgulas
+            cpf = cpf.Replace(".", "").Replace("-", "").Replace(" ", ""); // Remover pontos, espaços e vírgulas
 
             if (cpf.Length != 11)
                 return false;
